@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vovka0009
-- 👀 I’m interested in creating russain localization files for minecraft mods/plugins
-- 🌱 I’m currently learning Java, Python
+- 👀 I’m interested in creating russain&english localization files for minecraft mods/plugins
+- 🌱 I’m currently learning Python, and about to start learning Java
 - 💞️ Right now not looking for collaborating, but i'm free to join! Also be free to DM me if you need something.
 - 📫 Discord - JustVovka#3888
 
